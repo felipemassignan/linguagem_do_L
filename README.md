@@ -3,7 +3,7 @@
 Description. 
 The package liguagem_do_L is used to:
 	- Trocar o R da frase por L
-	-
+	- Modelo apenas acadêmico....
 
 ## Installation
 
